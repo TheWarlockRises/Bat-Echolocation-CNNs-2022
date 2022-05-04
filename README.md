@@ -1,6 +1,6 @@
 # Bat-Echolocation-CNNs-2022
 
-Files were made in Google Collaboratory. You will need to mount your Google Drive to the files. When downloading the data, you will need to add a file path similar to the one described in the code or change it to match one you create. Data can be found at https://github.com/TheWarlockRises/Bat-Echolocation-CNNs-2022.
+Files were made in Google Collaboratory. You will need to mount your Google Drive to the files. When downloading the data, you will need to add a file path similar to the one described in the code or change it to match one you create. Data can be found at https://drive.google.com/drive/folders/1j-x623EnS6UHkgDZOXmpJIRtu0keaZ_g?usp=sharing.
 	
 # audio_to_spectrogram_in_folders.ipynbd
 	Requires installation of LibROSA library
